@@ -1,0 +1,15 @@
+D:\Laboratorna1\Laboratorna1\bin\Debug\net6.0\Laboratorna1.exe
+D:\Laboratorna1\Laboratorna1\bin\Debug\net6.0\Laboratorna1.deps.json
+D:\Laboratorna1\Laboratorna1\bin\Debug\net6.0\Laboratorna1.runtimeconfig.json
+D:\Laboratorna1\Laboratorna1\bin\Debug\net6.0\Laboratorna1.dll
+D:\Laboratorna1\Laboratorna1\bin\Debug\net6.0\Laboratorna1.pdb
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\Laboratorna1.csproj.AssemblyReference.cache
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\Laboratorna1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\Laboratorna1.AssemblyInfoInputs.cache
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\Laboratorna1.AssemblyInfo.cs
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\Laboratorna1.csproj.CoreCompileInputs.cache
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\Laboratorna1.dll
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\refint\Laboratorna1.dll
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\Laboratorna1.pdb
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\Laboratorna1.genruntimeconfig.cache
+D:\Laboratorna1\Laboratorna1\obj\Debug\net6.0\ref\Laboratorna1.dll
